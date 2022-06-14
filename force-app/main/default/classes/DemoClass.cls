@@ -3,7 +3,7 @@ public with sharing class DemoClass {
      string s;
      
     }
-    public DemoClass1(){
+    public Democlass1(){
         String s1;
     }
 }
