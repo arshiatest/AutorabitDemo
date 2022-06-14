@@ -3,4 +3,7 @@ public with sharing class DemoClass {
      string s;
      
     }
+    public DemoClass1(){
+        String s1;
+    }
 }
